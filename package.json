@@ -1,6 +1,6 @@
 {
   "name": "nuxt-msw",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "mock api with MSW in Nuxt, both in the browser and on the server",
   "repository": "cybersanya/nuxt-msw",
   "license": "MIT",
