@@ -49,5 +49,6 @@
   },
   "msw": {
     "workerDirectory": "src/public"
-  }
+  },
+  "keywords": ["msw", "nuxt", "mocking", "mock", "api"]
 }

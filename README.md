@@ -35,7 +35,7 @@ yarn add --dev nuxt-msw msw
 npm install --save-dev nuxt-msw msw
 ```
 
-2. Add `nuxt-msw` to the `modules` section of `nuxt.config.ts`
+2. Add `nuxt-msw` to the `modules` section of `nuxt.config.ts` and enable it in options:
 
 ```js
 export default defineNuxtConfig({
@@ -43,7 +43,7 @@ export default defineNuxtConfig({
     'nuxt-msw'
   ],
   msw: {
-    /* module options */
+    enabled: true
   }
 })
 ```
